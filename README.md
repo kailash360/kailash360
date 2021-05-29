@@ -5,6 +5,9 @@
  
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash360&layout=compact&theme=vision-friendly-dark" width="350" height="250" >
 </div>
+<br>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=kailash360&countColorcountColor&countColor=%237B1E7B"/>
+
 <!--
 **kailash360/kailash360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
