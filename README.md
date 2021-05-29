@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### 📊 Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kailash360&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" />
+ 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash360&layout=compact&theme=vision-friendly-dark" width="350" height="250" >
+</div>
 <!--
 **kailash360/kailash360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
