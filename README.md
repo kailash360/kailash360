@@ -1,25 +1,17 @@
-### Hi there 👋
+### Hi there 👋, myself Kailash
+##### Web Development Enthusiast
 
-### 📊 Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kailash360&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" />
+Skills: Node JS / Express / JS / HTML / CSS
+<div align="center">
  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash360&layout=compact&theme=vision-friendly-dark" width="350" height="250" >
-</div>
-<br>
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=kailash360&countColorcountColor&countColor=%237B1E7B"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kailash360&show_icons=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kailash360)  
 
-<!--
-**kailash360/kailash360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kailash360)](https://github.com/anuraghazra/github-readme-stats)
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kailash360)
+ 
+ </div>
+ 
+ ![Profile views](https://gpvc.arturio.dev/kailash360)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
