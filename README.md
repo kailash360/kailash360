@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
  
-- 🔥 I'm also enhancing myself in the field of **Web Developement**
+- 🔥 I'm also enhancing myself in the field of **Blockchain**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
