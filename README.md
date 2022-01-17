@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kailashkejriwal21@gmail.com**
  
-- 🧑 More of me at **[kailash360.vercel.app](https://www.kailash360.vercel.app)**
+- 🧑 More of me at **[kailashk.me](https://kailashk.me)**
  
 ## 🚀 Languages and Tools:
 
