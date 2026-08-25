@@ -12,9 +12,9 @@
 
 ## About
 
-I am a Software Engineer at Nutanix focused on **backend systems, distributed systems, databases, and AI infrastructure**.
+Software Engineer at **Nutanix** focused on **backend systems, distributed systems, databases, and AI infrastructure**.
 
-My recent work centers on **vector search and database systems**, including Qdrant, Milvus, ClickHouse, and pgVector. I work across performance engineering, database internals, Kubernetes-based productionization, benchmarking, and open-source development.
+My recent work is centered on **vector search and database systems**, including Qdrant, Milvus, ClickHouse, and pgVector. I work across performance engineering, database internals, Kubernetes productionization, benchmarking, and open-source development.
 
 I enjoy working on systems where **scale, latency, correctness, and reliability** matter, and I like understanding systems below the API layer rather than treating databases as black boxes.
 
@@ -31,26 +31,31 @@ I enjoy working on systems where **scale, latency, correctness, and reliability*
 
 I contribute to open-source database systems, primarily **Qdrant** and **Milvus**.
 
-Recent Qdrant contributions include work on:
+### Qdrant
 
-- Multi-shard point-ID update routing
-- System-managed point metadata and persistence
-- Vector-index performance optimizations
-- Snapshot recovery
-- Storage telemetry
-- Search correctness
+- [Fix point-ID updates across multiple shard keys](https://github.com/qdrant/qdrant/pull/10065) - shard-aware update routing and regression coverage
+- [Add system-managed timestamps to point metadata](https://github.com/qdrant/qdrant/pull/9927) - internal metadata storage and persistence across segment and snapshot paths
+- [Optimize immutable map-index deletion](https://github.com/qdrant/qdrant/pull/9784) - reduce redundant deletion marking from O(values) to O(1)
+- [Optimize immutable geo-index deduplication](https://github.com/qdrant/qdrant/pull/9778) - replace quadratic deduplication with hash-set based processing
+- [Clean up merge optimizer batching](https://github.com/qdrant/qdrant/pull/9776) - simplify and optimize merge planning
 
-[View my Qdrant contributions](https://github.com/qdrant/qdrant/pulls?q=is%3Apr+is%3Aclosed+author%3Akailash360)
+### Milvus
 
-## Featured Work
+- [Fix cosine similarity precision overflow](https://github.com/milvus-io/milvus/pull/49264) - enforce bounded cosine scores across search reduction paths
+- [Fix authentication handling for the built-in Web UI](https://github.com/milvus-io/milvus/pull/49185) - separate management routes from authenticated SDK routes
+- [Restore sparse-vector index parameter validation](https://github.com/milvus-io/milvus/pull/49041) - add resilient Go-level validation and regression tests
 
-### Vector Search & Database Engineering
+[View all my Qdrant contributions](https://github.com/qdrant/qdrant/pulls?q=is%3Apr+is%3Aclosed+author%3Akailash360) · [View all my Milvus contributions](https://github.com/milvus-io/milvus/pulls?q=is%3Apr+is%3Aclosed+author%3Akailash360)
+
+## Vector Search & Database Engineering
 
 I benchmark and evaluate vector databases at large scale, comparing **recall, latency, throughput, CPU, memory, and storage efficiency** across different workloads and configurations.
 
-### AI Infrastructure
+I am particularly interested in how database internals, indexing strategies, storage layout, caching, sharding, and query execution affect real-world performance.
 
-I work on production RAG and vector-search systems, including ingestion, retrieval, reranking, filtering, capacity planning, and operational tooling.
+## AI Infrastructure
+
+I work on production RAG and vector-search systems, including ingestion, retrieval, hybrid search, reranking, metadata filtering, capacity planning, and operational tooling.
 
 ## Tech Stack
 
@@ -67,7 +72,7 @@ Qdrant · Milvus · ClickHouse · PostgreSQL · MySQL · Vector Search
 Kubernetes · Docker · Helm · Prometheus · Grafana · CI/CD
 
 **AI / LLM**  
-RAG · Hybrid Search · Embeddings · Cross-Encoder Reranking · LangChain · LangGraph
+RAG · Hybrid Search · Embeddings · Cross-Encoder Reranking
 
 ## Writing
 
