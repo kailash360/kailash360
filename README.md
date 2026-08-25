@@ -1,85 +1,91 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi, I'm Kailash
-<h3 align="center">I'm a passionate Full Stack Blockchain Developer from India.</h3>
-
- ## 🙋‍♂️ About Me
-
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
- 
-- 🔥 I'm also enhancing myself in the field of **Blockchain**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
- 
-- 🖋️ I love to write technology-based articles. Check them out at **[My Articles](https://medium.com/@kailash360)** 
-
-- 📫 How to reach me **kailashkejriwal21@gmail.com**
- 
-- 🧑 More of me at **[kailashk.me](https://kailashk.me)**
- 
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
-    <a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-color-tal-revivo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a> 
-    <a href="" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="express" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://ethereum.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ethereum.png"/> </a>
-    <a href="https://gitlab.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gitlab.png"/> </a>
-</p>
- 
-<p align="center">
-    <a href="https://github.com/kailash360/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kailash360's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kailash360&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
- 
 <div align="center">
- 
-# 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/kailash360/github-readme-stats"><img alt="Kailash Kejriwal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kailash360&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/kailash360/github-readme-stats"><img alt="Kailash Kejriwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash360&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+# Kailash Kejriwal
 
+### Software Engineer @ Nutanix | Backend & Distributed Systems | Databases & AI Infrastructure
 
-<br/>
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kailash360-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailash360/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kailashk.me-111111?style=flat&logo=google-chrome&logoColor=white)](https://kailashk.me)
+[![Medium](https://img.shields.io/badge/Medium-Kailash360-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@Kailash360)
 
-<a href="https://github.com/kailash360/github-readme-activity-graph"><img alt="Kailash Kejriwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kailash360&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</div>
 
- ![trophy](https://github-profile-trophy.vercel.app/?username=kailash360&row=1&no-bg=true)
+## About
 
- 
-<br/>
-<br/>
+I am a Software Engineer at Nutanix focused on **backend systems, distributed systems, databases, and AI infrastructure**.
 
-## Connect with me:
-<p align="left">
+My recent work centers on **vector search and database systems**, including Qdrant, Milvus, ClickHouse, and pgVector. I work across performance engineering, database internals, Kubernetes-based productionization, benchmarking, and open-source development.
 
-<a href = "https://kailash360.vercel.app"><img src="https://img.icons8.com/fluency/48/000000/portfolio.png"/></a>
-<a href = "https://www.linkedin.com/in/kailash360/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/itz_kailash"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/its.kailash/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+I enjoy working on systems where **scale, latency, correctness, and reliability** matter, and I like understanding systems below the API layer rather than treating databases as black boxes.
 
+### Current focus
 
-</p>
- 
-## ❤ Views and Followers
-<a href="https://github.com/kailash360?tab=followers"><img src="https://img.shields.io/github/followers/kailash360?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/kailash360)  
+- Distributed systems and backend infrastructure
+- Database internals and performance engineering
+- Vector search and AI infrastructure
+- Qdrant, Milvus, ClickHouse, and PostgreSQL
+- Kubernetes, observability, and production systems
+- Rust, C++, Go, and Java
 
+## Open Source
 
+I contribute to open-source database systems, primarily **Qdrant** and **Milvus**.
+
+Recent Qdrant contributions include work on:
+
+- Multi-shard point-ID update routing
+- System-managed point metadata and persistence
+- Vector-index performance optimizations
+- Snapshot recovery
+- Storage telemetry
+- Search correctness
+
+[View my Qdrant contributions](https://github.com/qdrant/qdrant/pulls?q=is%3Apr+is%3Aclosed+author%3Akailash360)
+
+## Featured Work
+
+### Vector Search & Database Engineering
+
+I benchmark and evaluate vector databases at large scale, comparing **recall, latency, throughput, CPU, memory, and storage efficiency** across different workloads and configurations.
+
+### AI Infrastructure
+
+I work on production RAG and vector-search systems, including ingestion, retrieval, reranking, filtering, capacity planning, and operational tooling.
+
+## Tech Stack
+
+**Languages**  
+C++ · Rust · Go · Java · Python · TypeScript
+
+**Backend & Distributed Systems**  
+Spring Boot · Kafka · Kafka Streams · Redis · Microservices · REST APIs
+
+**Databases & Search**  
+Qdrant · Milvus · ClickHouse · PostgreSQL · MySQL · Vector Search
+
+**Infrastructure**  
+Kubernetes · Docker · Helm · Prometheus · Grafana · CI/CD
+
+**AI / LLM**  
+RAG · Hybrid Search · Embeddings · Cross-Encoder Reranking · LangChain · LangGraph
+
+## Writing
+
+I write about software engineering, databases, vector search, AI infrastructure, and performance engineering.
+
+[Read my technical writing on Medium](https://medium.com/@Kailash360)
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kailash360&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash360&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+
+</div>
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/kailash360/
+- Portfolio: https://kailashk.me
+- Medium: https://medium.com/@Kailash360
